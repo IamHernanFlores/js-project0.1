@@ -15,3 +15,10 @@ body{
 .button-more{
 	background: url('../img/hojas.jpg');
 }
+
+#menu ul{
+	line-height: 46px;
+	list-style: none;
+	background: url('../img/hojas.jpg');
+	border-radius: 10px;
+}

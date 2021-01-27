@@ -31,6 +31,7 @@
 	float: left;
 	text-transform: uppercase;
 	border-radius: 19px;
+	background: url('../img/hojas.jpg');
 }
 
 #menu{
@@ -102,6 +103,8 @@ h2{
 	margin-top: 10px;
 	width: 70px;
 	margin-bottom: 20px;
+	background: url('../img/hojas.jpg');
+
 }
 
 #sidebar{
