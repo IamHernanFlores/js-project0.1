@@ -4,13 +4,21 @@ body{
 }
 
 #logo{
-	background: #1F87C4;
+	background: url("../img/cielo.jpg");
 }
 
 #menu ul li:hover{
 	background: #1F87C4;
+	border-radius: 10px;
 }
 
 .button-more{
-	background: #1F87C4;
+	background: url("../img/cielo.jpg");
+}
+
+#menu ul{
+	line-height: 46px;
+	list-style: none;
+	background: url("../img/cielo.jpg");
+	border-radius: 10px;
 }

@@ -4,13 +4,14 @@ body{
 }
 
 #logo{
-	background: #235E3D;
+	background: url('../img/hojas.jpg');
 }
 
 #menu ul li:hover{
 	background: #235E3D;
+	border-radius: 10px;
 }
 
 .button-more{
-	background: #235E3D;
+	background: url('../img/hojas.jpg');
 }

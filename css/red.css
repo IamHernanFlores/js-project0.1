@@ -4,13 +4,20 @@ body{
 }
 
 #logo{
-	background: #CA3413;
+	background: url("../img/rojo.jpg");
 }
 
 #menu ul li:hover{
 	background: #CA3413;
+	border-radius: 10px;
 }
 
 .button-more{
-	background: #CA3413;
+	background: url("../img/rojo.jpg");
+}
+#menu ul{
+	line-height: 46px;
+	list-style: none;
+	background: url("../img/rojo.jpg");
+	border-radius: 10px;
 }

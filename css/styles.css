@@ -15,6 +15,7 @@
 	padding: 25px;
 	background: white;
 	box-shadow: 0px 0px 2px gray;
+	border-radius: 10px;
 }
 
 #logo{
@@ -29,19 +30,23 @@
 	margin-bottom: 20px;
 	float: left;
 	text-transform: uppercase;
+	border-radius: 19px;
 }
 
 #menu{
-	font-family: Helvetica, Arial;
+	font-family: BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 	background: #333;
 	width: 100%;
 	text-transform: uppercase;
 	margin-bottom: 20px;
+	border-radius: 10px;
 }
 
 #menu ul{
 	line-height: 46px;
 	list-style: none;
+	background: url('../img/hojas.jpg');
+	border-radius: 10px;
 }
 
 #menu ul li{
